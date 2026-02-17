@@ -30,7 +30,7 @@ app.get('/', function(req, res) {
     '<p><span class="badge">⚙️ Node: ' + nodeVersion + '</span></p>' +
     '<p><span class="badge">🌍 Env: ' + env + '</span></p>' +
     '</div>' +
-    '<p>✅ Deploye avec S2I - TP3 Reussi !</p>' +
+    '<p>✅ Deploye avec S2I - TP3 Reussi - Version 2.0</p>' +
     '</body>' +
     '</html>'
   );
